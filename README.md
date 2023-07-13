@@ -1,6 +1,6 @@
 # AWS CodePipeline 
 
-AWS CodePipeline invokes CI (Using CodeBuild) and CD (Using COdeDeploy) 
+AWS CodePipeline invokes CI (Using CodeBuild) and CD (Using CodeDeploy) 
 
 Jenkins is an orchestrator which implements the CI and invokes the CD
 

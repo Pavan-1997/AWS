@@ -17,9 +17,8 @@ In CI there may be below stages depending on org:
 In CD there may be below stages depending on org:
 ```
 For this invoking we can use Ansible, Shell Scripting which are outdated
-```
 Now using GitOps - (ArgoCD, FluxCD) or  Helm Charts 
-
+```
 AWS CodePipeline Drawbacks:
 
 ```

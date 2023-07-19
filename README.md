@@ -27,3 +27,9 @@ AWS CodePipeline Drawbacks:
 - Managing the nodes
 - Reliability
 ```
+---
+# Implemented the complete CI/CD pipeline using AWS DevOps tools, Please check the below repos:
+
+https://github.com/Pavan-1997/AWS_CodePipeline_CI
+
+https://github.com/Pavan-1997/AWS_CodePipeline_CI_CD
